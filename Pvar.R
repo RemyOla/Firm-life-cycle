@@ -1,4 +1,4 @@
-
+setwd("C:\Users\DELL\Downloads\8516077\Pvar.R")
 # Load necessary libraries
 install.packages(c("tidyverse", "plm", 'lmtest", "broom", "vars", "stargazer", "panelvar", "psych", "writexl"))
 library(dplyr)
